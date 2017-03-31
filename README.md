@@ -1,0 +1,2 @@
+# mysite
+Learning sample django 
