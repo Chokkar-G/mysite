@@ -5,6 +5,7 @@ from django.views import generic
 from django.http import HttpResponse
 from polls.models import Question, Choice
 
+
 # Create your views here.
 
 class IndexView(generic.ListView):
